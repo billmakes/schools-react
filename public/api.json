@@ -1,0 +1,308 @@
+{
+  "Schools": [
+    {
+      "Id": "sdf10215",
+      "Name": "Avon High School",
+      "Description": "Is one of the premier highschools in East Coast",
+      "IsOpen": true,
+      "Teachers": [
+        {
+          "Id": "sfsddf234",
+          "Name": "Mr Jones",
+          "Students": [
+            {
+              "Id": "ssdfsd2344",
+              "Name": "Christopher Joones",
+              "IsEnrolled": true
+            },
+            {
+              "Id": "23424bcbvcv",
+              "Name": "Mike Kelley",
+              "IsEnrolled": true
+            },
+            {
+              "Id": "2312dfdfg",
+              "Name": "Sarah Roberts",
+              "IsEnrolled": true
+            }
+          ]
+        },
+        {
+          "Id": "tttdf234",
+          "Name": "Mr Smith",
+          "Students": [
+            {
+              "Id": "kjjshdfksd98",
+              "Name": "Tom Jones",
+              "IsEnrolled": true
+            },
+            {
+              "Id": "23sdkjf87cv",
+              "Name": "Kelley Obrein",
+              "IsEnrolled": true
+            },
+            {
+              "Id": "fsdf78667sdf09",
+              "Name": "Sarah Tomal",
+              "IsEnrolled": true
+            }
+          ]
+        },
+        {
+          "Id": "mhjkdf234",
+          "Name": "Mrs Apple",
+          "Students": [
+            {
+              "Id": "8098080xv",
+              "Name": "Michael Thompson",
+              "IsEnrolled": true
+            },
+            {
+              "Id": "90hh09sdfsd",
+              "Name": "Josh Hart",
+              "IsEnrolled": false
+            },
+            {
+              "Id": "23113217jgjhgjg",
+              "Name": "Alley Roberts",
+              "IsEnrolled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "nhjg75",
+      "Name": "Bloomington High School",
+      "Description": "Is one of the premier highschools in no where ville",
+      "IsOpen": true,
+      "Teachers": [
+        {
+          "Id": "4234hyj",
+          "Name": "Mr Micahels",
+          "Students": [
+            {
+              "Id": "32432748jkjkh",
+              "Name": "Robert Burns",
+              "IsEnrolled": false
+            },
+            {
+              "Id": "32478klklsa",
+              "Name": "Ed Thompson",
+              "IsEnrolled": false
+            },
+            {
+              "Id": "23489sdfhkj6dvb",
+              "Name": "Kathy Tomal",
+              "IsEnrolled": false
+            }
+          ]
+        },
+        {
+          "Id": "tuytu754",
+          "Name": "Mrs Sykes",
+          "Students": [
+            {
+              "Id": "34564hjgj",
+              "Name": "Norman Ivo",
+              "IsEnrolled": true
+            },
+            {
+              "Id": "345345cvnfghf4",
+              "Name": "Norma Tomale",
+              "IsEnrolled": false
+            },
+            {
+              "Id": "hkdfsjk87345",
+              "Name": "Edwin Armstrong",
+              "IsEnrolled": true
+            },
+            {
+              "Id": "gfsdg98326j",
+              "Name": "Marjaney Russell",
+              "IsEnrolled": true
+            }
+          ]
+        },
+        {
+          "Id": "rtyrtyrts3465",
+          "Name": "Dr. Heiter",
+          "Students": [
+            {
+              "Id": "456jkhkjsdf09",
+              "Name": "Black Phillip",
+              "IsEnrolled": true
+            },
+            {
+              "Id": "0932hudsjk98345",
+              "Name": "Penny Wise",
+              "IsEnrolled": true
+            },
+            {
+              "Id": "4564jskdf95768",
+              "Name": "Jack Torrance",
+              "IsEnrolled": false
+            },
+            {
+              "Id": "dfsg72893hjsdf7843",
+              "Name": "Chucky Lee Ray",
+              "IsEnrolled": true
+            },
+            {
+              "Id": "fdg8925jdsf78943",
+              "Name": "Jason Voorhees",
+              "IsEnrolled": true
+            },
+            {
+              "Id": "fddg34528jfgv56",
+              "Name": "Frederick Charles Krueger",
+              "IsEnrolled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "serer0215",
+      "Name": "West Hartford High School",
+      "Description": "Where the students kill to get ahead",
+      "IsOpen": true,
+      "Teachers": [
+        {
+          "Id": "sdfsd9676",
+          "Name": "Mrs Short",
+          "Students": [
+            {
+              "Id": "fgdf3425fgj678",
+              "Name": "Michael Myers",
+              "IsEnrolled": false
+            },
+            {
+              "Id": "dfgdfs3245658",
+              "Name": " Ed Gein",
+              "IsEnrolled": false
+            },
+            {
+              "Id": "fdgd235356hjf",
+              "Name": "Norman Bates",
+              "IsEnrolled": false
+            }
+          ]
+        },
+        {
+          "Id": "9809dsfsd",
+          "Name": "Mr Styles",
+          "Students": [
+            {
+              "Id": "fdgdfg3453dfgsd",
+              "Name": "Regan MacNeil",
+              "IsEnrolled": false
+            },
+            {
+              "Id": "vcbhgkj2189nbvas",
+              "Name": "Hannibal Lecter",
+              "IsEnrolled": false
+            },
+            {
+              "Id": "xcvvnb87345dc",
+              "Name": "Samara Morgan",
+              "IsEnrolled": false
+            }
+          ]
+        },
+        {
+          "Id": "slfjs778887",
+          "Name": "Mrs Json",
+          "Students": [
+            {
+              "Id": "325ghxcz6789",
+              "Name": "Minnie Castevet",
+              "IsEnrolled": false
+            },
+            {
+              "Id": "cxv879054xcqw24",
+              "Name": "Annie Wilkes",
+              "IsEnrolled": false
+            },
+            {
+              "Id": "2314456cnxc3465",
+              "Name": "Samara Morgan",
+              "IsEnrolled": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "gfh789sadf",
+      "Name": "Avon High School",
+      "Description": "Is one heck of an okie dokie highschool",
+      "IsOpen": false,
+      "Teachers": [
+        {
+          "Id": "45645hdfesf",
+          "Name": "Mrs Jones",
+          "Students": [
+            {
+              "Id": "gfh564567",
+              "Name": "Chris Hanson",
+              "IsEnrolled": true
+            },
+            {
+              "Id": "567856gjfgjh",
+              "Name": "Mike Bluebook",
+              "IsEnrolled": true
+            },
+            {
+              "Id": "232354chrt456",
+              "Name": "Frost Rogers",
+              "IsEnrolled": true
+            }
+          ]
+        },
+        {
+          "Id": "45754fdhdf",
+          "Name": "Ms Hierachy",
+          "Students": [
+            {
+              "Id": "cvbc456456",
+              "Name": "Tommy Bones",
+              "IsEnrolled": false
+            },
+            {
+              "Id": "cgfhdh546456",
+              "Name": "Kelley Osborn",
+              "IsEnrolled": true
+            },
+            {
+              "Id": "kjl890754656",
+              "Name": "Jerry Mcguire",
+              "IsEnrolled": true
+            }
+          ]
+        },
+        {
+          "Id": "cfgdf325234",
+          "Name": "Mrs Apple",
+          "Students": [
+            {
+              "Id": "fdg36242rs",
+              "Name": "Michael Bay",
+              "IsEnrolled": true
+            },
+            {
+              "Id": "cvwe25335y7457",
+              "Name": "Harvey Hartnet",
+              "IsEnrolled": false
+            },
+            {
+              "Id": "cxvx345634fsdfsd",
+              "Name": "Alley McBeal",
+              "IsEnrolled": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
